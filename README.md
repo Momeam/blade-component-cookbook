@@ -16,7 +16,7 @@ php artisan serve
 
 `http://127.0.0.1:8000`
 
-## ตัวอย่างที่ลองเล่นได้
+## ตัวอย่างที่ลองได้
 
 - **Inline editing:** แก้ไขข้อความ บันทึก หรือยกเลิก
 - **Toast notifications:** ทดลอง feedback หลังบันทึก
